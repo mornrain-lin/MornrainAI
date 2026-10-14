@@ -1,3 +1,5 @@
+![MornrainAI](assets/preview.png)
+
 # Mornrain · AI 助手
 
 > 开箱即用的多角色 AI 助手 Web 应用 —— 写作、翻译、编程、情感陪伴、简历优化、旅行规划，一个就够了。
