@@ -1,4 +1,4 @@
-![MornrainAI](assets/preview.png)
+![MornrainAI](assets/home.png)
 
 # Mornrain · AI 助手
 
@@ -23,13 +23,11 @@
 
 ---
 
-## 🖼️ 界面预览
+## 界面预览
 
 | 欢迎页 | 角色对话 |
-|--------|----------|
-| ![Mornrain 欢迎页：多角色 AI 助手](docs/screenshots/home.png) | ![Mornrain 对话页：流式回复](docs/screenshots/chat.png) |
-
----
+| --- | --- |
+| ![欢迎页](assets/home.png) | ![角色对话](assets/chat.png) |
 
 ## 🛠️ 技术栈
 
